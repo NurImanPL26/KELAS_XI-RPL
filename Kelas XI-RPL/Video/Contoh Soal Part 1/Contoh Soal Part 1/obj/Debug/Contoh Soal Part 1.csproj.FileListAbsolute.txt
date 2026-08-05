@@ -1,0 +1,24 @@
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.AssemblyReference.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form1Login.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form2Register.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form3Dashboard.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Properties.Resources.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.GenerateResource.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe.config
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.pdb
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.exe
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.pdb
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe.config
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.pdb
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.AssemblyReference.cache
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form1Login.resources
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form2Register.resources
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form3Dashboard.resources
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Properties.Resources.resources
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.GenerateResource.cache
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.CoreCompileInputs.cache
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.exe
+C:\Users\olehm\OneDrive\Documents\Terserah iman\Kelas XI-RPL\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.pdb
